@@ -1,0 +1,25 @@
+{
+  "name": "m9-exercise4-microservices",
+  "version": "1.0.0",
+  "description": "[](https://github.com/Mike-Innella/M9-API-Development-Labs#exercise-4-third-party-microservice)",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mike-Innella/M9-Exxercise4-MicroServices.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Mike-Innella/M9-Exxercise4-MicroServices/issues"
+  },
+  "homepage": "https://github.com/Mike-Innella/M9-Exxercise4-MicroServices#readme",
+  "dependencies": {
+    "axios": "^1.13.5",
+    "express": "^5.2.1"
+  }
+}
