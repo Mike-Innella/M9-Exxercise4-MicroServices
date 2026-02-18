@@ -3,6 +3,6 @@ const externalController = require("../controllers/external.controller");
 
 const router = express.Router();
 
-router.get("/external-posts", externalController.getExternalData);
+router.get("/api/external-posts", externalController.getExternalData);
 
 module.exports = router;
